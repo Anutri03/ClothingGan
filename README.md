@@ -40,7 +40,8 @@
 - **Video Demo:** [YouTube](https://www.youtube.com/watch?v=dHuunRnMnMo)
 - **Devpost:** [Project Page](https://devpost.com/software/clothinggan)
 
-![Demo of ClothingGAN](demo.gif)
+<img src="demo.gif" alt="Demo of ClothingGAN" width="600"/>
+
 *Demo: Interactive clothing generation and editing*
 
 ---
