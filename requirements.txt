@@ -1,12 +1,12 @@
 # Core ML and scientific libraries
-torch==2.0.0
+torch
 torchvision
- torchaudio
+torchaudio
 numpy
 scipy
 scikit-learn
 scikit-image
-pillow==6.2
+pillow
 
 # CUDA and GPU support
 pycuda
