@@ -1,0 +1,35 @@
+# Core ML and scientific libraries
+torch==2.0.0
+torchvision
+ torchaudio
+numpy
+scipy
+scikit-learn
+scikit-image
+pillow==6.2
+
+# CUDA and GPU support
+pycuda
+
+# UI and visualization
+matplotlib
+gradio
+pyopengltk
+glumpy
+imageio
+
+# Utilities
+requests
+tqdm
+boto3
+nltk
+fbpca
+
+# For video and image processing
+ffmpeg-python
+
+# Optional: for Google Drive downloads
+gdown
+
+# For StyleGAN2 and BigGAN (if needed)
+# (Add any additional dependencies as required by submodules) 
